@@ -1,0 +1,25 @@
+Streaming transaction logs mentioning BfWCivXaDRfxTtq2LnSp31FbSsxDXHXGhjVcemXxqXG9. Confirmed commitment
+Transaction executed in slot 187403055:
+  Signature: 3ExxgdPrvJCLhCcNVha3FXveofPJhWibCx9WqZuVzfc581ApRuCbAM3zRar8RD9nwrbLrBCa8LLNRKsw3oLr7Tv3
+  Status: Ok
+  Log Messages:
+    Program BfWCivXaDRfxTtq2LnSp31FbSsxDXHXGhjVcemXxqXG9 invoke [1]
+    Program log: Instruction: AddGif
+    Program BfWCivXaDRfxTtq2LnSp31FbSsxDXHXGhjVcemXxqXG9 consumed 3637 of 200000 compute units
+    Program BfWCivXaDRfxTtq2LnSp31FbSsxDXHXGhjVcemXxqXG9 success
+Transaction executed in slot 187403056:
+  Signature: 3ExxgdPrvJCLhCcNVha3FXveofPJhWibCx9WqZuVzfc581ApRuCbAM3zRar8RD9nwrbLrBCa8LLNRKsw3oLr7Tv3
+  Status: Ok
+  Log Messages:
+    Program BfWCivXaDRfxTtq2LnSp31FbSsxDXHXGhjVcemXxqXG9 invoke [1]
+    Program log: Instruction: AddGif
+    Program BfWCivXaDRfxTtq2LnSp31FbSsxDXHXGhjVcemXxqXG9 consumed 3637 of 200000 compute units
+    Program BfWCivXaDRfxTtq2LnSp31FbSsxDXHXGhjVcemXxqXG9 success
+Transaction executed in slot 187403056:
+  Signature: 2D2kx7yEpYuGARkQdGiD7iopPf2UNAwZGxEzN13eXBSgha7K5eNfcMTe3sEr614DSCUTxqo8oa89YqtADJevmsiY
+  Status: Ok
+  Log Messages:
+    Program BfWCivXaDRfxTtq2LnSp31FbSsxDXHXGhjVcemXxqXG9 invoke [1]
+    Program log: Instruction: UpdateItem
+    Program BfWCivXaDRfxTtq2LnSp31FbSsxDXHXGhjVcemXxqXG9 consumed 3484 of 200000 compute units
+    Program BfWCivXaDRfxTtq2LnSp31FbSsxDXHXGhjVcemXxqXG9 success

@@ -1,0 +1,15 @@
+[features]
+seeds = false
+skip-lint = false
+[programs.devnet]
+myepicproject = "BfWCivXaDRfxTtq2LnSp31FbSsxDXHXGhjVcemXxqXG9"
+
+[registry]
+url = "https://api.apr.dev"
+
+[provider]
+cluster = "devnet"
+wallet = "/Users/arjein/.config/solana/devnet.json"
+
+[scripts]
+test = "node tests/myepicproject.js"
