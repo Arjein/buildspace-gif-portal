@@ -73,7 +73,7 @@ const App = () => {
       const provider = getProvider();
       const program = await getProgram();
 
-      await program.addGif(inputValue, {
+      await program.rpc.addGif(inputValue, {
         accounts: {
           baseAccount: baseAccount.publicKey,
           user: provider.wallet.publicKey,
